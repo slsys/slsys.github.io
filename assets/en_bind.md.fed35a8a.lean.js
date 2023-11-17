@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,Q as i}from"./chunks/framework.f1c0562b.js";const b=JSON.parse('{"title":"Binding","description":"","frontmatter":{},"headers":[],"relativePath":"en/bind.md","filePath":"en/bind.md"}'),o={name:"en/bind.md"},s=i("",23),r=[s];function n(d,p,l,h,c,u){return t(),a("div",null,r)}const _=e(o,[["render",n]]);export{b as __pageData,_ as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as l,Q as n}from"./chunks/framework.f1c0562b.js";const h=JSON.parse('{"title":"Хранилище","description":"","frontmatter":{},"headers":[],"relativePath":"storage.md","filePath":"storage.md"}'),p={name:"storage.md"},o=n("",82),e=[o];function t(c,r,i,y,E,u){return a(),l("div",null,e)}const g=s(p,[["render",t]]);export{h as __pageData,g as default};

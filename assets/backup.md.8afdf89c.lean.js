@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as o}from"./chunks/framework.f1c0562b.js";const m=JSON.parse('{"title":"Описание функционала","description":"","frontmatter":{},"headers":[],"relativePath":"backup.md","filePath":"backup.md"}'),r={name:"backup.md"},c=o("",6),s=[c];function n(i,_,p,d,h,l){return e(),t("div",null,s)}const f=a(r,[["render",n]]);export{m as __pageData,f as default};

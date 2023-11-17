@@ -1,0 +1,1 @@
+import{_ as a,o as s,c as e,Q as o}from"./chunks/framework.f1c0562b.js";const E=JSON.parse('{"title":"Описание HTTP API","description":"","frontmatter":{},"headers":[],"relativePath":"http_api.md","filePath":"http_api.md"}'),t={name:"http_api.md"},p=o("",82),l=[p];function n(c,i,r,d,h,u){return s(),e("div",null,l)}const g=a(t,[["render",n]]);export{E as __pageData,g as default};

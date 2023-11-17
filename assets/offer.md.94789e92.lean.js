@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as e,Q as d}from"./chunks/framework.f1c0562b.js";const m=JSON.parse('{"title":"Отказ от обязательств","description":"","frontmatter":{},"headers":[],"relativePath":"offer.md","filePath":"offer.md"}'),l={name:"offer.md"},s=d("",5),a=[s];function i(n,h,u,f,o,p){return r(),e("div",null,a)}const Q=t(l,[["render",i]]);export{m as __pageData,Q as default};
