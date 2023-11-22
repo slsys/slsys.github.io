@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.9b0cfcaf.js";const d=JSON.parse('{"title":"Таймеры","description":"","frontmatter":{},"headers":[],"relativePath":"timers.md","filePath":"timers.md"}'),p={name:"timers.md"},o=l("",61),e=[o];function t(c,r,y,E,i,u){return a(),n("div",null,e)}const C=s(p,[["render",t]]);export{d as __pageData,C as default};

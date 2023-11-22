@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.9b0cfcaf.js";const d=JSON.parse('{"title":"Шлюз ModBus","description":"","frontmatter":{},"headers":[],"relativePath":"modbus.md","filePath":"modbus.md"}'),o={name:"modbus.md"},p=l("",21),e=[p];function t(r,c,E,y,i,u){return a(),n("div",null,e)}const h=s(o,[["render",t]]);export{d as __pageData,h as default};

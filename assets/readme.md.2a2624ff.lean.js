@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as r,Q as t}from"./chunks/framework.9b0cfcaf.js";const p=JSON.parse('{"title":"SLS (Smart Logic System)","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md"}'),s={name:"readme.md"},i=t("",14),l=[i];function o(n,h,_,d,m,S){return a(),r("div",null,l)}const c=e(s,[["render",o]]);export{p as __pageData,c as default};
