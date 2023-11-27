@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as l,Q as r}from"./chunks/framework.9b0cfcaf.js";const f=JSON.parse('{"title":"Облачный функционал","description":"","frontmatter":{},"headers":[],"relativePath":"cloud.md","filePath":"cloud.md"}'),t={name:"cloud.md"},o=r("",38),i=[o];function s(p,n,c,d,h,u){return a(),l("div",null,i)}const m=e(t,[["render",s]]);export{f as __pageData,m as default};

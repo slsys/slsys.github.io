@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,Q as l}from"./chunks/framework.f1c0562b.js";const b=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"trv_ext_temp.md","filePath":"trv_ext_temp.md"}'),s={name:"trv_ext_temp.md"},o=l("",10),n=[o];function r(p,c,i,u,_,m){return a(),t("div",null,n)}const v=e(s,[["render",r]]);export{b as __pageData,v as default};

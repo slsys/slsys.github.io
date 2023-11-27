@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as i,Q as r}from"./chunks/framework.9b0cfcaf.js";const m=JSON.parse('{"title":"Pro версия","description":"","frontmatter":{},"headers":[],"relativePath":"sls_pro.md","filePath":"sls_pro.md"}'),l={name:"sls_pro.md"},t=r("",6),o=[t];function s(_,n,c,d,h,p){return a(),i("div",null,o)}const u=e(l,[["render",s]]);export{m as __pageData,u as default};
